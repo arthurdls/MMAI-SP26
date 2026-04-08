@@ -7,9 +7,9 @@ This repo is a living lab notebook tracking my homework, experiments, and course
 
 Hi, I'm Arthur De Los Santos — a 6-3 student at MIT interested in AI/ML and agentic systems.
 
-## Course Project — Multimodal Tool Retrieval
+## Course Project — Multimodal Tool Retrieval via Hard-Negative Mining
 
-We propose a multimodal retrieval system for agentic tool-use, treating natural language user queries and structured data (API schemas, code snippets) as distinct modalities. Using the ToolBench dataset, we explore three research directions: **Hierarchical Contrastive Alignment**, a **Code-Enhanced Tri-Encoder**, and **Hard-Negative Mining** from agent decision-tree traces.
+We present a multimodal approach to API retrieval using the ToolBench dataset (16,000+ real-world APIs), treating user queries and structured API schemas as distinct modalities. Our midterm work establishes a dense retrieval baseline (`text-embedding-3-small`, R@5 = 0.421) and evaluates three negative-sampling strategies — random, category-sibling, and DFSDT failure-path negatives — revealing a ~10-point R@1 drop under hard conditions. Next steps: **Hierarchical Contrastive Loss** and a **Code-Enhanced Tri-Encoder** with CodeBERT.
 
 **Team:** Arthur De Los Santos, Dylan Mazard, Michael Serrano
 
