@@ -1,0 +1,29 @@
+# Data - lives outside this repo
+data/
+MultiBench/
+ToolBench/
+
+# OS
+__MACOSX/
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Large binary files
+*.tar.gz
+*.npy
+*.h5
+*.pkl
+*.pt
+*.pth
