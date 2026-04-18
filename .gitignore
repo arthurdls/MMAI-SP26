@@ -20,6 +20,8 @@ venv/
 .vscode/
 .idea/
 
+docs/
+
 # Large binary files
 *.tar.gz
 *.npy
