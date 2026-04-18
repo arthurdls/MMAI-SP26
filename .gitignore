@@ -19,7 +19,6 @@ venv/
 # IDE
 .vscode/
 .idea/
-
 docs/
 
 # Large binary files
@@ -29,3 +28,6 @@ docs/
 *.pkl
 *.pt
 *.pth
+
+# Documents
+*.pdf
