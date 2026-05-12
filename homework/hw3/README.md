@@ -40,5 +40,4 @@ This assignment investigates whether a vision-language model (VLM) can learn to 
 |------|-------------|
 | [`adls_mmai_HW3.ipynb`](./adls_mmai_HW3.ipynb) | Main notebook |
 | [`api_card_renderer.py`](./api_card_renderer.py) | Converts API JSON schemas to styled card images |
-| [`patch_nb.py`](./patch_nb.py) | Notebook patching utilities |
 | [`tests/`](./tests/) | Unit tests for the API card renderer |

@@ -20,6 +20,8 @@ Hi, I'm Arthur De Los Santos — a 6-3 student at MIT interested in AI/ML and ag
 | 1 | Multimodal Data Preprocessing with ToolBench | [HW1](./homework/hw1/adls_mmai_HW1.ipynb) |
 | 2 | Multimodal Alignment and Fusion Techniques | [HW2](./homework/hw2/adls_mmai_HW2.ipynb) |
 | 3 | Fine-tuning Vision-Language Models | [HW3](./homework/hw3/adls_mmai_HW3.ipynb) |
+| 4 | Reinforcement Learning for VLMs (GRPO) | [HW4](./homework/hw4/Homework_4_GRPO_VLMs.ipynb) |
+| 5 | AI Agents: Building, Evaluating, and Improving | [HW5](./homework/hw5/adls_mmai_HW5.ipynb) |
 
 ## License
 
